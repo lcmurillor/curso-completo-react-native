@@ -42,8 +42,3 @@ Este repositorio alberga una serie de proyectos desarrollados durante el **Curso
 
 
 
-Este README proporciona una descripción detallada del contenido del repositorio, instrucciones para su uso y recursos adicionales para el aprendizaje de React Native.
-::contentReference[oaicite:0]{index=0}
- 
-
-
