@@ -1,0 +1,39 @@
+{
+  "clientes": [
+    {
+      "nombre": "Juan Carlos",
+      "telefono": "5858585",
+      "correo": "juna@correo.com",
+      "empresa": "empresa sa",
+      "id": "5989"
+    },
+    {
+      "id": "92ee",
+      "nombre": "Luis Carlos",
+      "telefono": "85471414",
+      "correo": "correo@correo.com",
+      "empresa": "na"
+    },
+    {
+      "id": "acd4",
+      "nombre": "Luis Carlos",
+      "telefono": "85471414",
+      "correo": "correo@correo.com",
+      "empresa": "na"
+    },
+    {
+      "nombre": "Luis Carlos",
+      "telefono": "85471414",
+      "correo": "correo@correo.com",
+      "empresa": "tencitec",
+      "id": "8840"
+    },
+    {
+      "id": "f191",
+      "nombre": "Luis Carlos",
+      "telefono": "85471414",
+      "correo": "correo@correo.com",
+      "empresa": "na"
+    }
+  ]
+}

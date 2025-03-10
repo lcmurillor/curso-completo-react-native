@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "planificador",
+    "slug": "planificador",
+    "version": "2.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.lcmurillor.panificadorLite"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ee5d5689-8548-4560-b291-a8433542b589"
+      }
+    },
+    "android": {
+      "package": "com.lcmurillor.planificador"
+    }
+  }
+}
